@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pruebita.Web", "Pruebita.Web\Pruebita.Web.csproj", "{3BA68F8B-B73F-44C5-AEB9-709CAA35C67E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pruebita.Careers", "Modules\Pruebita.Careers\Pruebita.Careers.csproj", "{1DE1B118-4FA4-4FC2-A0B7-91B3AA7F95B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BA68F8B-B73F-44C5-AEB9-709CAA35C67E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA68F8B-B73F-44C5-AEB9-709CAA35C67E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA68F8B-B73F-44C5-AEB9-709CAA35C67E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA68F8B-B73F-44C5-AEB9-709CAA35C67E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DE1B118-4FA4-4FC2-A0B7-91B3AA7F95B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE1B118-4FA4-4FC2-A0B7-91B3AA7F95B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE1B118-4FA4-4FC2-A0B7-91B3AA7F95B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE1B118-4FA4-4FC2-A0B7-91B3AA7F95B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72FAEB70-D08B-411E-8DFA-2CC825FD9366}
+	EndGlobalSection
+EndGlobal
