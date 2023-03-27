@@ -10060,6 +10060,7 @@
       "outputPath": "C:\\Users\\Paola\\Documents\\Truextend\\Apps\\Pruebita\\Modules\\Pruebita.Careers\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
+        "C:\\Users\\Paola\\Documents\\Truextend\\Apps\\Pruebita\\NuGet.Config",
         "C:\\Users\\Paola\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -10068,7 +10069,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://www.myget.org/F/orchardcore-preview/api/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {

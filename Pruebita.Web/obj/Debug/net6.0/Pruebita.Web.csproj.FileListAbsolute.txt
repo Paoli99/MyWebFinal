@@ -406,3 +406,4 @@ C:\Users\Paola\Documents\Truextend\Apps\Pruebita\Pruebita.Web\obj\Debug\net6.0\r
 C:\Users\Paola\Documents\Truextend\Apps\Pruebita\Pruebita.Web\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\Paola\Documents\Truextend\Apps\Pruebita\Pruebita.Web\bin\Debug\net6.0\Pruebita.Careers.dll
 C:\Users\Paola\Documents\Truextend\Apps\Pruebita\Pruebita.Web\bin\Debug\net6.0\Pruebita.Careers.pdb
+C:\Users\Paola\Documents\Truextend\Apps\Pruebita\Pruebita.Web\obj\Debug\net6.0\Pruebita.Web.MvcApplicationPartsAssemblyInfo.cs
